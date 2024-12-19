@@ -1,0 +1,2 @@
+# autodeplyment
+manpower autodeployemnt
